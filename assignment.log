@@ -1,0 +1,85 @@
+System hostname:
+webonise-desktop
+Mon Jul  1 13:49:14 IST 2013
+
+
+System version:
+DISTRIB_ID=Ubuntu
+DISTRIB_RELEASE=11.04
+DISTRIB_CODENAME=natty
+DISTRIB_DESCRIPTION="Ubuntu 11.04"
+Mon Jul  1 13:49:14 IST 2013
+
+
+Path to home directory:
+Mon Jul  1 13:49:14 IST 2013
+
+
+User:
+webonise tty7         2013-07-01 09:10 (:0)
+webonise pts/0        2013-07-01 10:07 (:0.0)
+webonise pts/1        2013-07-01 13:48 (:0.0)
+Mon Jul  1 13:49:14 IST 2013
+
+
+Group name:
+webonise
+Mon Jul  1 13:49:14 IST 2013
+
+
+Files in home directory and its subdirectory:
+0	./7.txt
+0	./1.txt
+0	./9.txt
+4	./assignment.log
+96	./jq.js
+4	./#shell.sh#
+0	./10.txt
+0	./x.txt
+0	./readme.txt
+0	./4.txt
+0	./5.txt
+0	./8.txt
+0	./6.txt
+4	./test.txt
+0	./2.txt
+4	./test1.html
+4	./myshell.sh
+0	./x1.txt
+4	./ajax.html
+0	./3.txt
+Mon Jul  1 13:49:14 IST 2013
+
+
+Rename all .txt files:
+1.txt renamed as 1_POST.txt
+10.txt renamed as 10_POST.txt
+2.txt renamed as 2_POST.txt
+3.txt renamed as 3_POST.txt
+4.txt renamed as 4_POST.txt
+5.txt renamed as 5_POST.txt
+6.txt renamed as 6_POST.txt
+7.txt renamed as 7_POST.txt
+8.txt renamed as 8_POST.txt
+9.txt renamed as 9_POST.txt
+readme.txt renamed as readme_POST.txt
+test.txt renamed as test_POST.txt
+x.txt renamed as x_POST.txt
+x1.txt renamed as x1_POST.txt
+Mon Jul  1 13:49:14 IST 2013
+
+
+Rename on files which start with 'x' and it is .txt file
+Mon Jul  1 13:49:14 IST 2013
+
+
+Creating public_html folder and assigning 777 permission
+
+
+Moving first 4 files from assignment to public_html
+Mon Jul  1 13:49:14 IST 2013
+
+
+Copy the public_html folder inside the public_html and then rename it
+
+
